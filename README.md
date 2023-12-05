@@ -1,5 +1,5 @@
 # Book-Store-App
-Full-stack web app, where users can buy new/old books and sell their old books by making an account. Where admin is manipualting with new books by deleting/updading/adding books.
+Full-stack web app, where users can buy new/old books and sell their old books by making an account. Where admin is manipulating with new books by deleting/updating/adding books.
 
 Back-end: Java, MySQL
 Front-end: HTML, CSS, Bootstrap
